@@ -1,0 +1,13 @@
+art
+argparse
+python-dotenv
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+
+langchain
+langchain-core
+langchain-openai
+langchain-experimental
+langchain-community
