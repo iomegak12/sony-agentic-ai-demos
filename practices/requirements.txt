@@ -27,3 +27,5 @@ langchain-chroma
 tavily-python
 tiktoken
 
+beautifulsoup4
+langchain-text-splitters 
