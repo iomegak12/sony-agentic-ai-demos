@@ -11,3 +11,15 @@ langchain-core
 langchain-openai
 langchain-experimental
 langchain-community
+
+langchain-pinecone
+pinecone-client
+wikipedia
+
+faiss-cpu
+arxiv
+
+rank_bm25
+
+chromadb
+langchain-chroma
