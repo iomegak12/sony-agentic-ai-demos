@@ -29,3 +29,5 @@ tiktoken
 
 beautifulsoup4
 langchain-text-splitters 
+
+langchain-ollama
